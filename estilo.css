@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(236, 239, 243);
+    text-align: center;
+    font-family: 'Are You Serious';
+}
+    
+    #imgPerfil{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    border: solid 5px;
+    border-color: rgb(8, 8, 8);
+    }
+
+    #img2{
+        width: 35%;
+        height: 35%;
+        border-radius: 100%;
+    }
+    
+    .titulos{
+        font-size: 350%;
+    }
+    
+    h3{
+        font-size: 230%;
+        text-align: left;
+    }
+
+    #biografia{
+        width: 70%;
+        text-align: center;
+        display: inline;
+        
+    }
+
+    p{
+        text-align: justify;
+        font-size: 120%;
+        font-family: 'Belleza'
+       
+    }
+
+    
+    li{
+        font-size: 125%;
+        text-align-last: left;
+        font-family: 'Belleza';
+    
+    }
+    
+    
+    #familia{
+        display: inline;
+        font-size: 90%;
+    
+    }
+    
+    #filmografia{
+        display: inline;
+        font-family: 'Belleza';
+        font-size: 90%;
+    }
+    
+    #personajes{
+        width: 50%;
+        height: 50%;
+        display: inline-flex;
+        
+    }
+    #peliculas{
+        
+    float: right;
+    }
+
+  
